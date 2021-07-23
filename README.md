@@ -1,5 +1,5 @@
 <markdown>
- #StaticFiles API
+StaticFiles API
 API em Node para servir arquivos estáticos
  
 Configuração inicial
